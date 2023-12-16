@@ -29,7 +29,7 @@ Clone the repository to your local machine using the following command:
 
 bash
 Copy code
-git clone https://github.com/RemyLyon250/Snap-photo.git
+git clone https://github.com/RemyLyon250/Snap-Photos.git
 
 Change into the project directory:
 
